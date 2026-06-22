@@ -21,8 +21,8 @@ A web application that displays LeetCode user statistics and coding progress.
 3. Enter a LeetCode username and view statistics.
 
 ## Note
-This project uses a CORS proxy ( https://cors-anywhere.herokuapp.com ) for API requests. If the data does not load, the proxy service may be unavailable.
-
+1) This project uses a CORS proxy ( https://cors-anywhere.herokuapp.com ) for API requests. If the data does not load, the proxy service may be unavailable.
+2) This project is currently configured with a fixed/demo LeetCode username and may display data for only one profile. Dynamic username support is under development.
 
 
 ## Author
