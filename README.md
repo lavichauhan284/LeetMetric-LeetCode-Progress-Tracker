@@ -18,10 +18,16 @@ A web application that displays LeetCode user statistics and coding progress.
 - LeetCode API
 - CORS Anywhere Proxy
 
-## How to Run
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-3. Enter a LeetCode username and view statistics.
+## Live Demo
+
+🌐 https://your-project-name.vercel.app
+
+## How to Use
+
+1. Open the Live Demo link.
+2. Enter the configured LeetCode username (`lavichauhan123`).
+3. Click the **Search** button.
+4. View the LeetCode statistics.
 
 ## Note
 1) This project uses a CORS proxy ( https://cors-anywhere.herokuapp.com ) for API requests. If the data does not load, the proxy service may be unavailable.
